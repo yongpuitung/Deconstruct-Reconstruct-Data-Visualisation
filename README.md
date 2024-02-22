@@ -58,7 +58,7 @@ I have reconstructed the following plot which helps fix the main issues.
 
 
 ## References
-The reference to the original data visualisation choose, the data source(s) used for the reconstruction and any other sources used for this assignment are as follows:
+The reference to the original data visualisation choose, the data source(s) used for the reconstruction and any other sources used for this project are as follows:
 
 - Visual Capitalist. (2023, March). These Countries Have the Most New Patents. Visual Capitalist. Retrieved September 16, 2023, from https://www.visualcapitalist.com/cp/countries-new-patents/
 
