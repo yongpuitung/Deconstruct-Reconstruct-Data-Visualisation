@@ -50,6 +50,12 @@ The visualisation chosen had the following three main issues:
 - Issue 2: Perceptual Issue
 - Issue 3: Failure to Answer a Practical Question
 
+## Reconstruction
+
+I have reconstructed the following plot which helps fix the main issues.
+
+![Data Visualization after Reconstruction.](/img/results.png)
+
 
 ## References
 The reference to the original data visualisation choose, the data source(s) used for the reconstruction and any other sources used for this assignment are as follows:
