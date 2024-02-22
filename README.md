@@ -1,2 +1,62 @@
-# Deconstruct-Reconstruct-Data-Visualisation
-Deconstruct and reconstruct a "problematic" data visualisation found on the web using R.
+# Deconstruct and Reconstruct Data Visualisation Using R
+
+## Overview
+In this project, I will deconstruct and reconstruct a "problematic" data visualisation found on the web using R.  The goal is to pinpoint any issues and rectify them, ensuring that the data visualization can effectively address a practical question.
+
+## Motivation
+As the quantity of data visualizations on the web continues to grow, it becomes crucial to scrutinize and recognize whether these visualizations may deceive or mislead the public audience. This exercise holds significance for data analysts, who bear the major responsibility of delivering precise visualizations to their audience.
+
+## Dataset
+The original data visualisation selected could be found at [this link](https://www.visualcapitalist.com/wp-content/uploads/2023/03/Patent-Grants-by-Country-of-Origin.html).
+
+![Source: Visual Capitalist (2023).](/img/visual_capitalist.png)
+
+## Tools Used
+In this data visualization project, I employed R and its various packages, including ggplot2, to dissect and amend the flawed visualization.
+
+## Project Objectives
+This visualisation aims to identify the top countries granted the most number of patents in different fields of technology in 2021. This information is crucial for recognizing the leading nations in technological innovation. Additionally, the visualisation seeks to facilitate a direct comparison of the number of patent grants between countries. This comparison is crucial for reader to evaluate the roles of different nations in the technological landscape.
+
+This visualisation could potentially educate audience, influence audience’s behavior and decision-making in the following ways:
+
+- Educate Audience about Global Trends
+  - It could educate audience about the global landscape of intellectual property and technological innovation. Understanding which countries are at the forefront of patent grants provides valuable insights into the dynamics of the global economy and technology landscape.
+- Guide Investment Decisions
+  - The visualization is designed to influence investment decisions. Recognizing which countries lead in patent grants helps investors identify nations with potential for economic growth and business opportunities. For example, if someone realizes that a certain country is leading in patent grants, it could guide him towards that country for investment opportunities.
+- Influence on Innovation Strategies
+  - It could inspire audience to consider the leading countries and fields of technology when developing innovation and research strategies. For example, if a certain country dominates in a specific technology sector, it signifies a concentration of innovative activity and expertise in that area. It could encourage professionals to actively seek and explore collaborations opportunities in that country.
+ 
+## Audience
+
+The visualisation is published on “Visual Capitalist” website. It is a digital media company that specializes in creating data visualisation related to economics, finance, technology and global trends. Based on the website content and style, the designer is likely targeting individuals who are interested in understanding certain issues via data-driven visualisation. This includes
+
+- Students
+- Professionals in Related Fields
+- Investors
+- Business Leaders
+
+Based on the specific article “Which Countries are Granted the Most New Patents?” we chose, the target audience is individuals with an interest in intellectual property, innovation and global economic trends. This includes
+
+- Inventors
+- Entrepreneurs
+- Investors
+- Policymakers
+- Professionals in fields related to intellectual property law, technology and innovation
+
+Based on the tone of the visualisation and the related article, it is informative and analytical. It presents data and facts about patent grants across different countries and technological fields, providing insights into the global landscape of innovation and intellectual property.
+
+The article’s detailed analysis and use of specific data points suggest that it is designed for target audience with a keen interest in patents, intellectual property and technology trends. For example, it is likely to be professionals, researchers, policymakers, investors and individuals who are interested in innovation and intellectual property.
+
+## Critique
+The visualisation chosen had the following three main issues:
+- Issue 1: Data Integrity (Missing Data)
+- Issue 2: Perceptual Issue
+- Issue 3: Failure to Answer a Practical Question
+
+
+## References
+The reference to the original data visualisation choose, the data source(s) used for the reconstruction and any other sources used for this assignment are as follows:
+
+- Visual Capitalist. (2023, March). These Countries Have the Most New Patents. Visual Capitalist. Retrieved September 16, 2023, from https://www.visualcapitalist.com/cp/countries-new-patents/
+
+- World Intellectual Property Organization. (2023, July). WIPO IP Statistics. Retrieved September 16, 2023, from https://www3.wipo.int/ipstats
