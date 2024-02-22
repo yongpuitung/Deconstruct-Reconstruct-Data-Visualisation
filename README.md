@@ -20,11 +20,8 @@ This visualisation aims to identify the top countries granted the most number of
 This visualisation could potentially educate audience, influence audience’s behavior and decision-making in the following ways:
 
 - Educate Audience about Global Trends
-  - It could educate audience about the global landscape of intellectual property and technological innovation. Understanding which countries are at the forefront of patent grants provides valuable insights into the dynamics of the global economy and technology landscape.
 - Guide Investment Decisions
-  - The visualization is designed to influence investment decisions. Recognizing which countries lead in patent grants helps investors identify nations with potential for economic growth and business opportunities. For example, if someone realizes that a certain country is leading in patent grants, it could guide him towards that country for investment opportunities.
 - Influence on Innovation Strategies
-  - It could inspire audience to consider the leading countries and fields of technology when developing innovation and research strategies. For example, if a certain country dominates in a specific technology sector, it signifies a concentration of innovative activity and expertise in that area. It could encourage professionals to actively seek and explore collaborations opportunities in that country.
  
 ## Audience
 
